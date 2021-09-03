@@ -1,0 +1,6 @@
+{
+	"appId": "com.billbrocker.ionicweather",
+	"appName": "ionic-weather",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
